@@ -1,0 +1,29 @@
+{
+  "name": "hexschool-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for Hexschool from AWS Educate Cloud Ambassadors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws-educate-tw/Hexschool-Tutorial.git"
+  },
+  "keywords": [
+    "AWS",
+    "Educate",
+    "Hex",
+    "EC2",
+    "Node.js"
+  ],
+  "author": "AWS Educate Cloud Ambassadors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aws-educate-tw/Hexschool-Tutorial/issues"
+  },
+  "homepage": "https://github.com/aws-educate-tw/Hexschool-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
