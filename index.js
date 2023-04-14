@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Simple Web Application is UP');
+  res.send('2023/04/15 02:47');
 });
 
 app.listen(8081, function () {
